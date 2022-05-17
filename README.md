@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Oscar-source-57
 - 👀 I’m interested in Mobile Networks, both RAN and CORE parts
 - 🌱 I’m currently learning Python, PyTorch, and TensorFlow!
-- 💞️ I’m looking to collaborate on: Still investigating best option, any ideas? Thank you!
+- 💞️ I’m looking to collaborate on: Still investigating best options, any ideas? Thank you!
 - 📫 How to reach me at: oscar.lopez-torres@web.de
 
 <!---
